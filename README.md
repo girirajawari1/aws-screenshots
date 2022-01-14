@@ -1,1 +1,1 @@
-# aws-screenshots
+# aws-result-screenshots
